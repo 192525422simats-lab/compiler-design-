@@ -1,0 +1,1 @@
+document.querySelectorAll('.flash').forEach(e=>setTimeout(()=>e.remove(),4500));
